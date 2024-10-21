@@ -1,0 +1,41 @@
+1.Iris Dataset:
+
+Description: While originally used for classification, you can convert it to a binary classification problem by selecting two species of iris.
+Source: Available in the sklearn library.
+Features: Sepal length, sepal width, petal length, petal width.
+Target: Species (binary classification).
+
+2.Titanic Dataset:
+
+Description: Predict survival on the Titanic based on various passenger attributes.
+Source: Available on Kaggle.
+Features: Age, sex, fare, class, etc.
+Target: Survived (0 = No, 1 = Yes).
+
+3Pima Indians Diabetes Database:
+
+Description: Contains data for female Pima Indians to predict the onset of diabetes.
+Source: Available on the UCI Machine Learning Repository.
+Features: Glucose, blood pressure, skin thickness, BMI, age, etc.
+Target: Diabetes (0 = No, 1 = Yes).
+
+3.Heart Disease UCI Dataset:
+
+Description: Predict the presence of heart disease based on various medical attributes.
+Source: UCI Machine Learning Repository.
+Features: Age, sex, chest pain type, cholesterol, etc.
+Target: Presence of heart disease (0 = No, 1 = Yes).
+Bank Marketing Dataset:
+
+Description: Contains data about a marketing campaign for a Portuguese bank.
+
+4.Source: UCI Machine Learning Repository.
+Features: Age, job, marital status, education, etc.
+Target: Subscription to a term deposit (0 = No, 1 = Yes).
+
+5.Adult Income Dataset:
+
+Description: Predict whether an individual earns more than $50,000 per year based on various attributes.
+Source: UCI Machine Learning Repository.
+Features: Age, education, marital status, occupation, hours worked, etc.
+Target: Income (0 = <=50K, 1 = >50K).
